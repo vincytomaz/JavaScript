@@ -1,0 +1,23 @@
+body{
+    background-color:gray;  
+    font: 20px normal Arial;  
+}
+
+header{
+    color: honeydew;
+    text-align: center ;
+    
+}
+
+section{
+    background: chocolate;
+    border-radius: 5px;
+    padding: 10px;
+    width: fit-content;
+    margin: auto;
+}
+
+footer{
+    text-align: center;
+    font-style: italic;
+}
