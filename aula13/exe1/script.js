@@ -27,5 +27,7 @@ function contar() {
       } 
     } 
     res.innerHTML += `\u{1F3C1}`
+    let n = 1543.5
+    n.toFixed('BRL')
   }
 }
