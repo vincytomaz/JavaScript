@@ -1,0 +1,24 @@
+body{
+    background:goldenrod;
+    font: normal 20px Arial;
+
+}
+header{
+    color: black;
+    text-align: center;
+
+}
+section{
+    background: white;
+    border-radius: 5px;
+    padding: 10px;
+    width: min-content;
+    margin: auto;
+    box-shadow: black;
+}
+footer{
+    color: black;
+    text-align: center;
+    
+
+}
