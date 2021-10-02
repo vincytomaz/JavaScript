@@ -1,0 +1,26 @@
+body{
+    
+    
+}
+
+header{
+    text-align: center;
+    font: 20px normal ;
+    font-family: sans-serif;
+}
+
+section{
+    background-color:bisque;
+    border-radius: 5px;
+    padding: 5px;
+    width:fit-content;
+    margin: auto;
+}
+
+footer{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 10px;
+    font-style: italic;
+    margin: 20px;
+}
